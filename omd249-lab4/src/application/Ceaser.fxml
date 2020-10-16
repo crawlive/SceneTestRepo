@@ -13,7 +13,7 @@
             <Font name="Century Gothic" size="15.0" />
          </font>
       </Button>
-      <Label fx:id="label1" layoutX="19.0" layoutY="155.0" prefHeight="35.0" prefWidth="236.0" text="Enter Plain Text" textFill="#b700ff">
+      <Label fx:id="label1" layoutX="19.0" layoutY="155.0" prefHeight="35.0" prefWidth="236.0" text="Enter Plain Text Here" textFill="#b700ff">
          <font>
             <Font name="Century Gothic Bold" size="18.0" />
          </font></Label>
