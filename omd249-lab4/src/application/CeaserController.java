@@ -6,7 +6,7 @@
  * 		when the button is pressed.
  */
 package application;
-//test new
+//test merge
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
